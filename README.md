@@ -46,4 +46,18 @@ python main.py
 - **Pycaw**: Interface for Windows Core Audio APIs.
 - **NumPy**: Data interpolation for volume mapping.
 ---
+## view output video on linkedin post
+https://www.linkedin.com/posts/aishwarya-s-bbb99529a_ai-computervision-datascience-ugcPost-7457356907872178176-dqE5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhnjX8BM-GrNrlJhx2p4G1wr3CpxvecgaU
+<img width="1080" height="599" alt="v1" src="https://github.com/user-attachments/assets/836fd868-d524-48a7-a80e-c87480add343" />
+<img width="1080" height="575" alt="v2" src="https://github.com/user-attachments/assets/7e5036b9-cb55-473f-b1e5-0a4d0e99bbb8" />
+<img width="1080" height="586" alt="v3" src="https://github.com/user-attachments/assets/5ca18e7c-948e-4162-98c7-8dc9d661bc56" />
+
+
+
+
+
+
+
+
+
 Developed by [aishu.codes](https://github.com)
